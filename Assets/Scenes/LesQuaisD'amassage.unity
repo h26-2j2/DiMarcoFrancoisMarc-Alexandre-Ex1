@@ -555,7 +555,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2135585597343286014, guid: 5aa8b770bc43046bc8d993d0d5b7f4a5, type: 3}
   m_Color: {r: 0.8941177, g: 0.6313726, b: 0.13725491, a: 1}
@@ -581,7 +581,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DeplacementWarp
   cheminInversee: 0
   vitesseY: 2
-  positionX: 0
   limiteHaute: 12
   limiteBasse: -13
 --- !u!114 &371802247
@@ -1142,7 +1141,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2135585597343286014, guid: 5aa8b770bc43046bc8d993d0d5b7f4a5, type: 3}
   m_Color: {r: 0.8941177, g: 0.6313726, b: 0.13725491, a: 1}
@@ -1168,7 +1167,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DeplacementWarp
   cheminInversee: 1
   vitesseY: 0
-  positionX: 0
   limiteHaute: 12
   limiteBasse: -13
 --- !u!114 &829579670
@@ -1303,7 +1301,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2135585597343286014, guid: 5aa8b770bc43046bc8d993d0d5b7f4a5, type: 3}
   m_Color: {r: 0.8941177, g: 0.6313726, b: 0.13725491, a: 1}
@@ -1344,7 +1342,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DeplacementWarp
   cheminInversee: 1
   vitesseY: 0
-  positionX: 0
   limiteHaute: 12
   limiteBasse: -13
 --- !u!114 &878959297
@@ -1693,7 +1690,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2135585597343286014, guid: 5aa8b770bc43046bc8d993d0d5b7f4a5, type: 3}
   m_Color: {r: 0.8941177, g: 0.6313726, b: 0.13725491, a: 1}
@@ -1719,7 +1716,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DeplacementWarp
   cheminInversee: 0
   vitesseY: 2
-  positionX: -2
   limiteHaute: 12
   limiteBasse: -12
 --- !u!114 &1613659961
@@ -1770,7 +1766,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DeplacementWarp
   cheminInversee: 0
   vitesseY: 2
-  positionX: 0
   limiteHaute: 12
   limiteBasse: -13
 --- !u!114 &1876263016
@@ -1832,7 +1827,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2135585597343286014, guid: 5aa8b770bc43046bc8d993d0d5b7f4a5, type: 3}
   m_Color: {r: 0.8941177, g: 0.6313726, b: 0.13725491, a: 1}
